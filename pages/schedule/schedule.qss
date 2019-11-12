@@ -1,0 +1,14 @@
+.btn-area {
+    width: 100%;
+    position:absolute;
+    bottom:0;
+}
+navigator {
+    dispaly: inline-block;
+    height: 50px;
+    width: 25%;
+    float:left;
+    text-align:center;
+    font-size:12px;
+    background-color:rgb(1,1,1,.1);
+}
